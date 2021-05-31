@@ -1,0 +1,7 @@
+digraph 
+  {
+    node [ color = "#b6d7a8", style = "filled", fontcolor = "white" ];
+    edge [ color = "#999999", style = "filled" ];
+    "test3";
+    "test2" -> "test1";
+  }
