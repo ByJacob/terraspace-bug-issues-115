@@ -1,0 +1,1 @@
+test123 = <%= output("test1.sample") %>
